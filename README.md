@@ -11,8 +11,10 @@ I have converted the list of abbreviations from [ISI](https://images.webofknowle
 format.
 The file is in UTF-8 as some journal names have non-ascii characters.
 
+
 Jabref
 ------
+
 To abbreviate the journal names, have a look at http://jabref.sourceforge.net/help/JournalAbbreviations.php
 Jabref can automatically download the file for you. Enter as url:
 https://raw.githubusercontent.com/wpoely86/jabref-abbreviations/master/list-abbreviations.txt
